@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/vidhurraj147/github-report/issues"
   },
-  "homepage": "https://github.com/vidhurraj147/github-report#readme"
+  "homepage": "https://github.com/vidhurraj147/github-report#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.119",
+    "@types/request": "^2.48.1"
+  }
 }
